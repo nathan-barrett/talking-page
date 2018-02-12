@@ -3,7 +3,7 @@
 
 ## Description
 
-_An HTML webpage designed to show off the features of our resort. Styled With CSS, it has rich design and eye-catching flair._
+_An HTML webpage designed to show off the basics of JavaScript and jQuery._
 
 ## Setup/Installation Requirements
 
